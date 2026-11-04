@@ -1,2 +1,1 @@
-Iseseisev töö algab
-Grupitöö algus
+Sissejuhatus Andmeanalüüsi
