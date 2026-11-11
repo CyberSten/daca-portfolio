@@ -28,4 +28,14 @@ promotions
 
 I learned how database tables are structured and how primary keys and relationships connect different tables.
 
-GitHub Portfolio
+**GitHub Portfolio**
+I created my DACA portfolio repository: "github.com/CyberSten/daca-portfolio" 
+I learned how to organise project files, save SQL scripts, commit changes and push my work to GitHub.
+My first SQL file was hello_urbanstyle.sql.
+
+**What I Learned**
+Week 0 helped me understand how the different tools fit together in a data analyst's workflow.
+I now have a working development environment and have taken my first steps in database management and SQL querying.
+There is still a lot to learn, but the foundation is in place.
+
+**Next step:** Continue developing my SQL skills, work with the UrbanStyle dataset and move towards data cleaning, analysis and visualisation.
