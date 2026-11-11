@@ -1,7 +1,9 @@
 -- Week 0 – Getting Started with Data Analytics --
 
 **Overview**
+
 My first week at Schooling was focused on setting up my data analytics environment and getting familiar with the tools I will be using throughout the DACA (Data Analyst Career Accelerator) programme.
+
 It was a week of learning, installation, configuration and taking my first steps into SQL and data analysis.
 
 **Tools and Environment Setup**
