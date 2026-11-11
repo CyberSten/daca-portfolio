@@ -1,1 +1,1 @@
-Nädal 1: SQL Basics
+-- Week 0 – Getting Started with Data Analytics --
