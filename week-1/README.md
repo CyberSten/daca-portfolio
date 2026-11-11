@@ -1,1 +1,1 @@
--- Week 0 – Getting Started with Data Analytics --
+-- Week 1 – Getting Started with Data Analytics --
