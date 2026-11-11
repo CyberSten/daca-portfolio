@@ -27,3 +27,5 @@ suppliers
 promotions
 
 I learned how database tables are structured and how primary keys and relationships connect different tables.
+
+GitHub Portfolio
