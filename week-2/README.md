@@ -4,3 +4,8 @@
 - `COUNT(*)` – counting the rows in each group.
 - `HAVING` – filtering groups after they are created.
 - `ORDER BY ... DESC` – showing the largest values first.
+
+**Important difference: WHERE vs HAVING**
+
+- `WHERE` filters individual rows **before** grouping.
+- `HAVING` filters groups **after** grouping.
