@@ -9,3 +9,6 @@
 
 - `WHERE` filters individual rows **before** grouping.
 - `HAVING` filters groups **after** grouping.
+
+
+-- Group Project --
