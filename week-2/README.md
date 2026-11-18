@@ -14,7 +14,7 @@
 -- Group Project --
 # Sales – Müügiandmete puhastamine 
 
-> **Staatus:** Andmekvaliteedi kontroll tehtud · Parandused alles tegemata
+> **Staatus:** Andmekvaliteedi kontroll tehtud · Parandused tegemata
 
 ## Kokkuvõte
 
