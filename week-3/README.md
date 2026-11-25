@@ -30,30 +30,41 @@ Oluline: need on kadunud klientide arvud, mitte ostukonversiooni määrad. Et te
 
 ## Failid
 - `week3_roll_b_kadunud_kliendid.sql`
-- Supabase'i tulemuste tabelid:
--- 1. Leia kõik kliendid, kellel pole ühtegi ostu - 599
--- 2. Loe kokku kadunud klientide arv - 599
--- 3. Kadunud kliendid linnade kaupa -
-| city       | kadunud_kliente |
-| ---------- | --------------- |
-| Tallinn    | 231             |
-| Tartu      | 133             |
-| Pärnu      | 70              |
-| Narva      | 32              |
-| Valga      | 25              |
-| Kuressaare | 18              |
-| Viljandi   | 18              |
-| Haapsalu   | 17              |
-| Rakvere    | 17              |
-| Võru       | 15              |
-| Jõhvi      | 12              |
-| Paide      | 11              |
--- 4. Millal kadunud kliendid registreerusid? - 27.05.2025
--- 5. Võrdle kadunud ja aktiivsete klientide arvu
-| staatus               | kliente |
-| --------------------- | ------- |
-| Aktiivne (on ostnud)  | 2551    |
-| Kadunud (pole ostnud) | 599     |
+## Supabase'i tulemuste tabelid
+
+### 1. Kliendid, kellel pole ühtegi ostu
+- Leitud kadunud kliente: **599**
+
+### 2. Kadunud klientide koguarv
+- **599 klienti**
+
+### 3. Kadunud kliendid linnade kaupa
+
+| Linn | Kadunud kliente |
+|---|---:|
+| Tallinn | 231 |
+| Tartu | 133 |
+| Pärnu | 70 |
+| Narva | 32 |
+| Valga | 25 |
+| Kuressaare | 18 |
+| Viljandi | 18 |
+| Haapsalu | 17 |
+| Rakvere | 17 |
+| Võru | 15 |
+| Jõhvi | 12 |
+| Paide | 11 |
+
+### 4. Kadunud klientide registreerimiskuupäev
+- Kõige uuem registreerimiskuupäev: **27.02.2025**
+
+### 5. Kadunud ja aktiivsete klientide võrdlus
+
+| Staatus | Kliente |
+|---|---:|
+| Aktiivne (on ostnud) | 2 551 |
+| Kadunud (pole ostnud) | 599 |
+| **Kokku** | **3 150** |
 
 
 ## Tiimi ühine töö
